@@ -1,0 +1,12 @@
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\bin\Debug\Nogomet.mdf
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\bin\Debug\Nogomet_log.ldf
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\bin\Debug\Hattrick.exe.config
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\bin\Debug\Hattrick.exe
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\bin\Debug\Hattrick.pdb
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\obj\Debug\Hattrick.csprojResolveAssemblyReference.cache
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\obj\Debug\Hattrick.Properties.Resources.resources
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\obj\Debug\Hattrick.csproj.GenerateResource.Cache
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\obj\Debug\Hattrick.csproj.CoreCompileInputs.cache
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\obj\Debug\Hattrick.exe
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\obj\Debug\Hattrick.pdb
+c:\users\ivan petričević\source\repos\Hattrick\Hattrick\obj\Debug\Hattrick.Form1.resources
